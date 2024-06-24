@@ -89,3 +89,16 @@ footer {
 a[target="_blank"] {
     color: #007bff;
 }
+
+pre {
+    background-color: #f4f4f4;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    overflow-x: auto;
+}
+
+code {
+    font-family: Consolas, 'Courier New', monospace;
+    color: #333;
+}
